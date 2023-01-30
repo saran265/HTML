@@ -1,0 +1,30 @@
+h1,h2,FORM{
+	text-align:center;
+}
+
+.topnav{
+	background-color: ;
+	overflow: hidden;
+	color: red;
+}
+h1,marquee{
+	background-color:#193184;
+	color:white;
+
+}
+head,img{
+    text-align:top;
+    
+}
+ul,li{
+	float:right;
+	display: inline;
+	margin-right:15px;
+
+}
+.topnav a {
+  text-align: center 100%;
+  padding: 19px 15px;
+  text-decoration: none;
+  font-size: 19px;
+}
